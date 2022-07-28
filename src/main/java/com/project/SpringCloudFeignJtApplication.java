@@ -26,7 +26,7 @@ public class SpringCloudFeignJtApplication {
 
     public static void main(String[] args) {
 
-        SpringApplication.run(SpringCloudFeignApplication.class, args);
+        SpringApplication.run(SpringCloudFeignJtApplication.class, args);
 
     }
 
